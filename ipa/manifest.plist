@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
-<plist version='1.0'>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
 <dict>
     <key>items</key>
     <array>
@@ -8,7 +8,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key><string>io.stova.stovaevents.demo</string>
-                <key>bundle-version</key><string>20250428131946</string>
+                <key>bundle-version</key><string>20250428134251</string>
                 <key>kind</key><string>software</string>
                 <key>title</key><string>Stova App</string>
             </dict>
@@ -16,7 +16,7 @@
             <array>
                 <dict>
                     <key>kind</key><string>software-package</string>
-                    <key>url</key><string>https://github.com/arshadaumnitechworks/stova-otad/raw/refs/heads/main/Stova.ipa</string>
+                    <key>url</key><string>https://github.com/arshadaumnitechworks/stova-otad/raw/main/ipa/Stova.ipa</string>
                 </dict>
             </array>
         </dict>
