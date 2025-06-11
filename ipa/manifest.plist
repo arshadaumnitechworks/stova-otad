@@ -8,7 +8,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key><string>io.stova.stovaevents.demo</string>
-                <key>bundle-version</key><string>20250610-050625</string>
+                <key>bundle-version</key><string>20250611-063558</string>
                 <key>kind</key><string>software</string>
                 <key>title</key><string>Stova App</string>
             </dict>
@@ -16,7 +16,7 @@
             <array>
                 <dict>
                     <key>kind</key><string>software-package</string>
-                    <key>url</key><string>https://github.com/arshadaumnitechworks/stova-otad/raw/main/ipa/StovaApp-20250610-050625.ipa</string>
+                    <key>url</key><string>https://github.com/arshadaumnitechworks/stova-otad/raw/main/ipa/StovaApp-20250611-063558.ipa</string>
                 </dict>
             </array>
         </dict>
